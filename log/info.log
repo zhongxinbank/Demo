@@ -1,0 +1,893 @@
+[2018-07-29 15:03:29,973] [localhost] [动卡助手] [INFO] [140735639159680] [main] - Ellison服务器完成初始化
+[2018-07-29 15:16:46,160] [Zhehaos-MacBook-Pro-2.local] [Ellison] [WARNING] [140735639159680] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "/Users/vzhehao/Developer/Ellison/database/orm/base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "/usr/local/bin/../Cellar/python/3.6.5/bin/../Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-29 15:19:17,107] [Zhehaos-MacBook-Pro-2.local] [Ellison] [WARNING] [140735639159680] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "/Users/vzhehao/Developer/Ellison/database/orm/base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "/usr/local/bin/../Cellar/python/3.6.5/bin/../Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-29 15:19:17,114] [localhost] [Ellison] [INFO] [140735639159680] [main] - Ellison服务器完成初始化
+[2018-07-29 15:21:26,067] [Zhehaos-MacBook-Pro-2.local] [Ellison] [WARNING] [140735639159680] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "/Users/vzhehao/Developer/Ellison/database/orm/base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "/usr/local/bin/../Cellar/python/3.6.5/bin/../Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-29 15:21:26,076] [localhost] [Ellison] [INFO] [140735639159680] [main] - Ellison服务器完成初始化
+[2018-07-29 15:23:28,377] [Zhehaos-MacBook-Pro-2.local] [Ellison] [WARNING] [140735639159680] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "/Users/vzhehao/Developer/Ellison/database/orm/base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "/usr/local/bin/../Cellar/python/3.6.5/bin/../Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-29 15:23:28,385] [localhost] [Ellison] [INFO] [140735639159680] [main] - Ellison服务器完成初始化
+[2018-07-29 15:24:15,820] [Zhehaos-MacBook-Pro-2.local] [Ellison] [WARNING] [140735639159680] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "/Users/vzhehao/Developer/Ellison/database/orm/base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "/usr/local/bin/../Cellar/python/3.6.5/bin/../Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-29 15:24:15,828] [localhost] [Ellison] [INFO] [140735639159680] [main] - Ellison服务器完成初始化
+[2018-07-29 15:30:32,076] [Zhehaos-MacBook-Pro-2.local] [Ellison] [WARNING] [140735639159680] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "/Users/vzhehao/Developer/Ellison/database/orm/base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "/usr/local/bin/../Cellar/python/3.6.5/bin/../Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-29 15:30:32,086] [localhost] [Ellison] [INFO] [140735639159680] [main] - Ellison服务器完成初始化
+[2018-07-29 15:32:07,447] [Zhehaos-MacBook-Pro-2.local] [Ellison] [WARNING] [140735639159680] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "/Users/vzhehao/Developer/Ellison/database/orm/base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "/usr/local/bin/../Cellar/python/3.6.5/bin/../Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-29 15:32:07,457] [localhost] [Ellison] [INFO] [140735639159680] [main] - Ellison服务器完成初始化
+[2018-07-30 13:41:51,896] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [5532] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 13:41:52,060] [localhost] [Ellison] [INFO] [5532] [main] - Ellison服务器完成初始化
+[2018-07-30 15:00:52,578] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [1196] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:00:52,771] [localhost] [Ellison] [INFO] [1196] [main] - Ellison服务器完成初始化
+[2018-07-30 15:10:11,404] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [9516] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:10:11,574] [localhost] [Ellison] [INFO] [9516] [main] - Ellison服务器完成初始化
+[2018-07-30 15:12:50,912] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [1564] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:12:51,075] [localhost] [Ellison] [INFO] [1564] [main] - Ellison服务器完成初始化
+[2018-07-30 15:16:44,025] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [8360] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:16:44,192] [localhost] [Ellison] [INFO] [8360] [main] - Ellison服务器完成初始化
+[2018-07-30 15:19:37,463] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [13304] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:19:37,650] [localhost] [Ellison] [INFO] [13304] [main] - Ellison服务器完成初始化
+[2018-07-30 15:21:41,410] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [4808] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:21:41,608] [localhost] [Ellison] [INFO] [4808] [main] - Ellison服务器完成初始化
+[2018-07-30 15:22:50,834] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [12384] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:22:51,013] [localhost] [Ellison] [INFO] [12384] [main] - Ellison服务器完成初始化
+[2018-07-30 15:23:37,504] [localhost] [Ellison] [INFO] [5048] [smart_analyser_responder] - dialogs:<peewee.ModelSelect object at 0x0000022315891518>
+[2018-07-30 15:23:42,732] [localhost] [Ellison] [INFO] [11480] [smart_analyser_responder] - dialogs:<peewee.ModelSelect object at 0x0000022315891710>
+[2018-07-30 15:24:12,752] [localhost] [Ellison] [INFO] [9148] [smart_analyser_responder] - dialogs:<peewee.ModelSelect object at 0x00000223158916D8>
+[2018-07-30 15:25:26,901] [localhost] [Ellison] [INFO] [8668] [smart_analyser_responder] - dialogs:<peewee.ModelSelect object at 0x0000022315891748>
+[2018-07-30 15:26:21,869] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [9280] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:26:22,052] [localhost] [Ellison] [INFO] [9280] [main] - Ellison服务器完成初始化
+[2018-07-30 15:29:58,709] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [13272] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:29:58,906] [localhost] [Ellison] [INFO] [13272] [main] - Ellison服务器完成初始化
+[2018-07-30 15:31:12,847] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [5368] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:31:13,046] [localhost] [Ellison] [INFO] [5368] [main] - Ellison服务器完成初始化
+[2018-07-30 15:32:18,610] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [13212] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:32:18,784] [localhost] [Ellison] [INFO] [13212] [main] - Ellison服务器完成初始化
+[2018-07-30 15:49:47,401] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [9292] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:49:47,594] [localhost] [Ellison] [INFO] [9292] [main] - Ellison服务器完成初始化
+[2018-07-30 15:51:02,901] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [1788] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:51:03,094] [localhost] [Ellison] [INFO] [1788] [main] - Ellison服务器完成初始化
+[2018-07-30 15:52:45,694] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [5392] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:52:45,881] [localhost] [Ellison] [INFO] [5392] [main] - Ellison服务器完成初始化
+[2018-07-30 15:53:32,587] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [7072] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:53:32,764] [localhost] [Ellison] [INFO] [7072] [main] - Ellison服务器完成初始化
+[2018-07-30 15:55:09,566] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [8272] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:55:09,748] [localhost] [Ellison] [INFO] [8272] [main] - Ellison服务器完成初始化
+[2018-07-30 15:55:15,382] [localhost] [Ellison] [INFO] [6448] [smart_analyser_responder] - dialogs:1,1	00:00:01,590	00:00:14,130	啊啊喂你好
+0	00:00:14,240	00:00:15,590	这边是假账
+1	00:00:15,600	00:00:17,410	镇政府号码政府吗
+0	00:00:18,590	00:00:21,110	噢这边是富士康扶贫办的
+1	00:00:22,320	00:00:23,050	工商部门办
+0	00:00:23,450	00:00:23,940	啊对对
+1	00:00:23,950	00:00:27,300	就是那个平安村是您辖区的嘛
+0	00:00:28,530	00:00:31,900	平安村是您这边辖区的
+1	00:00:31,910	00:00:34,010	吧啊是这样的
+0	00:00:34,020	00:00:36,550	这个平安村有位村民叫黄九江的
+1	00:00:36,560	00:00:37,970	是我们这边的员工
+0	00:00:38,520	00:00:40,660	就是说他在这边申请了一笔扶贫
+1	00:00:40,670	00:00:41,210	基金
+0	00:00:43,490	00:00:47,330	啊您这您这边有那个平安村村委
+1	00:00:47,340	00:00:48,330	书记号码
+0	00:00:49,160	00:00:49,850	我这边没有
+1	00:00:51,020	00:00:51,930	没有吗
+0	00:00:53,100	00:00:57,220	那村长呢有没有啊也没有也没有
+1	00:00:57,230	00:01:00,860	啊你们这边是没登记的吗
+0	00:01:01,720	00:01:03,470	我们这边是没有乘上吗
+1	00:01:04,570	00:01:07,620	噢那有没有那个村委座机
+0	00:01:07,630	00:01:09,690	啊他们他们没有座机
+1	00:01:09,700	00:01:11,550	像农村里面是没有座机
+0	00:01:12,150	00:01:12,740	没有
+1	00:01:13,810	00:01:16,090	我们一般要要选要什么的话就接
+0	00:01:16,100	00:01:16,670	下去
+1	00:01:20,030	00:01:21,770	那你们有什么事情怎么通知他们
+0	00:01:21,780	00:01:23,560	那没有那号码
+1	00:01:24,910	00:01:26,510	我们我们每天都有人下去
+0	00:01:26,520	00:01:29,590	啊每天都有人下乡
+1	00:01:29,600	00:01:34,100	啊嗯噢好吧
+0	00:01:34,110	00:01:34,780	那行
+1	00:01:34,820	00:01:35,660	好好
+
+[2018-07-30 15:55:15,382] [localhost] [Ellison] [INFO] [6448] [smart_analyser_responder] - dialogs:0,1	00:00:00,430	00:00:30,920	去啊啊喂喂你好
+0	00:00:30,990	00:00:34,580	是黄黄强永煌先生吗
+1	00:00:35,190	00:00:35,770	不受
+0	00:00:36,950	00:00:37,240	不是
+1	00:00:37,250	00:00:38,920	啊吧他说不是
+0	00:00:38,920	00:00:41,630	啊找到什么事
+1	00:00:41,940	00:00:43,310	啊他有没有在那里
+0	00:00:43,320	00:00:49,070	啊他没在那里啊噢你是他什么人
+1	00:00:49,610	00:00:51,170	我说他他他的
+0	00:00:51,270	00:00:53,110	我说他B有什么事跟我说
+1	00:00:53,120	00:00:53,620	要可以
+0	00:00:53,660	00:00:54,870	啊是这样的
+1	00:00:55,130	00:00:56,170	他不是他老婆
+0	00:00:56,180	00:00:58,970	沈海淘嘛啊是这样的
+1	00:00:58,980	00:01:02,430	在中信银行信用卡欠了2803
+0	00:01:02,440	00:01:03,270	84元
+1	00:01:03,640	00:01:04,080	告诉你
+0	00:01:04,820	00:01:07,550	就是说逾期差不多几个月了都还
+1	00:01:07,560	00:01:08,530	没处理
+0	00:01:10,850	00:01:11,890	那个我也不知道
+1	00:01:11,900	00:01:13,430	喽没事
+0	00:01:13,440	00:01:14,730	啊你跟她老公说一下
+1	00:01:14,740	00:01:16,200	叫他跟他老婆说一下
+0	00:01:16,250	00:01:16,530	儿子
+1	00:01:16,540	00:01:17,070	你
+0	00:01:17,110	00:01:17,950	他说你嫂子
+1	00:01:17,960	00:01:19,550	啊你跟你嫂子说一下都可以
+0	00:01:19,560	00:01:22,560	啊我嫂子现在不接我电话
+1	00:01:22,570	00:01:24,140	我也不知道在在在哪里
+0	00:01:24,150	00:01:27,810	啊噢他他们家是什么
+1	00:01:27,860	00:01:31,890	嗯是是现在他跟我过得不好了
+0	00:01:31,900	00:01:32,880	现在我也不知道
+1	00:01:33,550	00:01:37,010	这样啊啊就是说跟你哥闹矛盾
+0	00:01:37,020	00:01:41,280	是不是啊对啊噢你嫂子做什么的
+1	00:01:41,290	00:01:42,860	他们2000多块钱都没钱还
+0	00:01:42,870	00:01:45,750	嘛我我现在我也不知道他在在
+1	00:01:45,760	00:01:46,590	干嘛
+0	00:01:47,170	00:01:47,340	对
+1	00:01:47,350	00:01:47,900	啊行
+0	00:01:47,910	00:01:49,880	吧那您您忙跟歌声
+1	00:01:50,190	00:01:51,280	跟您哥说一下
+0	00:01:51,290	00:01:52,980	您叫您哥转告他一下
+1	00:01:52,980	00:01:54,140	好
+0	00:01:54,150	00:01:56,290	那我知道好嗯嗯好好
+1	00:01:56,300	00:01:57,860	行行嗯好唉唉
+
+[2018-07-30 15:56:25,108] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [3732] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:56:25,293] [localhost] [Ellison] [INFO] [3732] [main] - Ellison服务器完成初始化
+[2018-07-30 15:56:28,920] [localhost] [Ellison] [INFO] [13212] [smart_analyser_responder] - dialogs:1,1	00:00:01,590	00:00:14,130	啊啊喂你好
+0	00:00:14,240	00:00:15,590	这边是假账
+1	00:00:15,600	00:00:17,410	镇政府号码政府吗
+0	00:00:18,590	00:00:21,110	噢这边是富士康扶贫办的
+1	00:00:22,320	00:00:23,050	工商部门办
+0	00:00:23,450	00:00:23,940	啊对对
+1	00:00:23,950	00:00:27,300	就是那个平安村是您辖区的嘛
+0	00:00:28,530	00:00:31,900	平安村是您这边辖区的
+1	00:00:31,910	00:00:34,010	吧啊是这样的
+0	00:00:34,020	00:00:36,550	这个平安村有位村民叫黄九江的
+1	00:00:36,560	00:00:37,970	是我们这边的员工
+0	00:00:38,520	00:00:40,660	就是说他在这边申请了一笔扶贫
+1	00:00:40,670	00:00:41,210	基金
+0	00:00:43,490	00:00:47,330	啊您这您这边有那个平安村村委
+1	00:00:47,340	00:00:48,330	书记号码
+0	00:00:49,160	00:00:49,850	我这边没有
+1	00:00:51,020	00:00:51,930	没有吗
+0	00:00:53,100	00:00:57,220	那村长呢有没有啊也没有也没有
+1	00:00:57,230	00:01:00,860	啊你们这边是没登记的吗
+0	00:01:01,720	00:01:03,470	我们这边是没有乘上吗
+1	00:01:04,570	00:01:07,620	噢那有没有那个村委座机
+0	00:01:07,630	00:01:09,690	啊他们他们没有座机
+1	00:01:09,700	00:01:11,550	像农村里面是没有座机
+0	00:01:12,150	00:01:12,740	没有
+1	00:01:13,810	00:01:16,090	我们一般要要选要什么的话就接
+0	00:01:16,100	00:01:16,670	下去
+1	00:01:20,030	00:01:21,770	那你们有什么事情怎么通知他们
+0	00:01:21,780	00:01:23,560	那没有那号码
+1	00:01:24,910	00:01:26,510	我们我们每天都有人下去
+0	00:01:26,520	00:01:29,590	啊每天都有人下乡
+1	00:01:29,600	00:01:34,100	啊嗯噢好吧
+0	00:01:34,110	00:01:34,780	那行
+1	00:01:34,820	00:01:35,660	好好
+
+[2018-07-30 15:56:28,921] [localhost] [Ellison] [INFO] [13212] [smart_analyser_responder] - dialogs:0,1	00:00:00,430	00:00:30,920	去啊啊喂喂你好
+0	00:00:30,990	00:00:34,580	是黄黄强永煌先生吗
+1	00:00:35,190	00:00:35,770	不受
+0	00:00:36,950	00:00:37,240	不是
+1	00:00:37,250	00:00:38,920	啊吧他说不是
+0	00:00:38,920	00:00:41,630	啊找到什么事
+1	00:00:41,940	00:00:43,310	啊他有没有在那里
+0	00:00:43,320	00:00:49,070	啊他没在那里啊噢你是他什么人
+1	00:00:49,610	00:00:51,170	我说他他他的
+0	00:00:51,270	00:00:53,110	我说他B有什么事跟我说
+1	00:00:53,120	00:00:53,620	要可以
+0	00:00:53,660	00:00:54,870	啊是这样的
+1	00:00:55,130	00:00:56,170	他不是他老婆
+0	00:00:56,180	00:00:58,970	沈海淘嘛啊是这样的
+1	00:00:58,980	00:01:02,430	在中信银行信用卡欠了2803
+0	00:01:02,440	00:01:03,270	84元
+1	00:01:03,640	00:01:04,080	告诉你
+0	00:01:04,820	00:01:07,550	就是说逾期差不多几个月了都还
+1	00:01:07,560	00:01:08,530	没处理
+0	00:01:10,850	00:01:11,890	那个我也不知道
+1	00:01:11,900	00:01:13,430	喽没事
+0	00:01:13,440	00:01:14,730	啊你跟她老公说一下
+1	00:01:14,740	00:01:16,200	叫他跟他老婆说一下
+0	00:01:16,250	00:01:16,530	儿子
+1	00:01:16,540	00:01:17,070	你
+0	00:01:17,110	00:01:17,950	他说你嫂子
+1	00:01:17,960	00:01:19,550	啊你跟你嫂子说一下都可以
+0	00:01:19,560	00:01:22,560	啊我嫂子现在不接我电话
+1	00:01:22,570	00:01:24,140	我也不知道在在在哪里
+0	00:01:24,150	00:01:27,810	啊噢他他们家是什么
+1	00:01:27,860	00:01:31,890	嗯是是现在他跟我过得不好了
+0	00:01:31,900	00:01:32,880	现在我也不知道
+1	00:01:33,550	00:01:37,010	这样啊啊就是说跟你哥闹矛盾
+0	00:01:37,020	00:01:41,280	是不是啊对啊噢你嫂子做什么的
+1	00:01:41,290	00:01:42,860	他们2000多块钱都没钱还
+0	00:01:42,870	00:01:45,750	嘛我我现在我也不知道他在在
+1	00:01:45,760	00:01:46,590	干嘛
+0	00:01:47,170	00:01:47,340	对
+1	00:01:47,350	00:01:47,900	啊行
+0	00:01:47,910	00:01:49,880	吧那您您忙跟歌声
+1	00:01:50,190	00:01:51,280	跟您哥说一下
+0	00:01:51,290	00:01:52,980	您叫您哥转告他一下
+1	00:01:52,980	00:01:54,140	好
+0	00:01:54,150	00:01:56,290	那我知道好嗯嗯好好
+1	00:01:56,300	00:01:57,860	行行嗯好唉唉
+
+[2018-07-30 15:58:37,975] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [9120] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:58:38,143] [localhost] [Ellison] [INFO] [9120] [main] - Ellison服务器完成初始化
+[2018-07-30 15:58:42,440] [localhost] [Ellison] [INFO] [1124] [smart_analyser_responder] - dialogs:1,1	00:00:01,590	00:00:14,130	啊啊喂你好
+0	00:00:14,240	00:00:15,590	这边是假账
+1	00:00:15,600	00:00:17,410	镇政府号码政府吗
+0	00:00:18,590	00:00:21,110	噢这边是富士康扶贫办的
+1	00:00:22,320	00:00:23,050	工商部门办
+0	00:00:23,450	00:00:23,940	啊对对
+1	00:00:23,950	00:00:27,300	就是那个平安村是您辖区的嘛
+0	00:00:28,530	00:00:31,900	平安村是您这边辖区的
+1	00:00:31,910	00:00:34,010	吧啊是这样的
+0	00:00:34,020	00:00:36,550	这个平安村有位村民叫黄九江的
+1	00:00:36,560	00:00:37,970	是我们这边的员工
+0	00:00:38,520	00:00:40,660	就是说他在这边申请了一笔扶贫
+1	00:00:40,670	00:00:41,210	基金
+0	00:00:43,490	00:00:47,330	啊您这您这边有那个平安村村委
+1	00:00:47,340	00:00:48,330	书记号码
+0	00:00:49,160	00:00:49,850	我这边没有
+1	00:00:51,020	00:00:51,930	没有吗
+0	00:00:53,100	00:00:57,220	那村长呢有没有啊也没有也没有
+1	00:00:57,230	00:01:00,860	啊你们这边是没登记的吗
+0	00:01:01,720	00:01:03,470	我们这边是没有乘上吗
+1	00:01:04,570	00:01:07,620	噢那有没有那个村委座机
+0	00:01:07,630	00:01:09,690	啊他们他们没有座机
+1	00:01:09,700	00:01:11,550	像农村里面是没有座机
+0	00:01:12,150	00:01:12,740	没有
+1	00:01:13,810	00:01:16,090	我们一般要要选要什么的话就接
+0	00:01:16,100	00:01:16,670	下去
+1	00:01:20,030	00:01:21,770	那你们有什么事情怎么通知他们
+0	00:01:21,780	00:01:23,560	那没有那号码
+1	00:01:24,910	00:01:26,510	我们我们每天都有人下去
+0	00:01:26,520	00:01:29,590	啊每天都有人下乡
+1	00:01:29,600	00:01:34,100	啊嗯噢好吧
+0	00:01:34,110	00:01:34,780	那行
+1	00:01:34,820	00:01:35,660	好好
+
+[2018-07-30 15:58:42,441] [localhost] [Ellison] [INFO] [1124] [smart_analyser_responder] - dialogs:0,1	00:00:00,430	00:00:30,920	去啊啊喂喂你好
+0	00:00:30,990	00:00:34,580	是黄黄强永煌先生吗
+1	00:00:35,190	00:00:35,770	不受
+0	00:00:36,950	00:00:37,240	不是
+1	00:00:37,250	00:00:38,920	啊吧他说不是
+0	00:00:38,920	00:00:41,630	啊找到什么事
+1	00:00:41,940	00:00:43,310	啊他有没有在那里
+0	00:00:43,320	00:00:49,070	啊他没在那里啊噢你是他什么人
+1	00:00:49,610	00:00:51,170	我说他他他的
+0	00:00:51,270	00:00:53,110	我说他B有什么事跟我说
+1	00:00:53,120	00:00:53,620	要可以
+0	00:00:53,660	00:00:54,870	啊是这样的
+1	00:00:55,130	00:00:56,170	他不是他老婆
+0	00:00:56,180	00:00:58,970	沈海淘嘛啊是这样的
+1	00:00:58,980	00:01:02,430	在中信银行信用卡欠了2803
+0	00:01:02,440	00:01:03,270	84元
+1	00:01:03,640	00:01:04,080	告诉你
+0	00:01:04,820	00:01:07,550	就是说逾期差不多几个月了都还
+1	00:01:07,560	00:01:08,530	没处理
+0	00:01:10,850	00:01:11,890	那个我也不知道
+1	00:01:11,900	00:01:13,430	喽没事
+0	00:01:13,440	00:01:14,730	啊你跟她老公说一下
+1	00:01:14,740	00:01:16,200	叫他跟他老婆说一下
+0	00:01:16,250	00:01:16,530	儿子
+1	00:01:16,540	00:01:17,070	你
+0	00:01:17,110	00:01:17,950	他说你嫂子
+1	00:01:17,960	00:01:19,550	啊你跟你嫂子说一下都可以
+0	00:01:19,560	00:01:22,560	啊我嫂子现在不接我电话
+1	00:01:22,570	00:01:24,140	我也不知道在在在哪里
+0	00:01:24,150	00:01:27,810	啊噢他他们家是什么
+1	00:01:27,860	00:01:31,890	嗯是是现在他跟我过得不好了
+0	00:01:31,900	00:01:32,880	现在我也不知道
+1	00:01:33,550	00:01:37,010	这样啊啊就是说跟你哥闹矛盾
+0	00:01:37,020	00:01:41,280	是不是啊对啊噢你嫂子做什么的
+1	00:01:41,290	00:01:42,860	他们2000多块钱都没钱还
+0	00:01:42,870	00:01:45,750	嘛我我现在我也不知道他在在
+1	00:01:45,760	00:01:46,590	干嘛
+0	00:01:47,170	00:01:47,340	对
+1	00:01:47,350	00:01:47,900	啊行
+0	00:01:47,910	00:01:49,880	吧那您您忙跟歌声
+1	00:01:50,190	00:01:51,280	跟您哥说一下
+0	00:01:51,290	00:01:52,980	您叫您哥转告他一下
+1	00:01:52,980	00:01:54,140	好
+0	00:01:54,150	00:01:56,290	那我知道好嗯嗯好好
+1	00:01:56,300	00:01:57,860	行行嗯好唉唉
+
+[2018-07-30 15:59:47,771] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [8088] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 15:59:47,955] [localhost] [Ellison] [INFO] [8088] [main] - Ellison服务器完成初始化
+[2018-07-30 15:59:51,287] [localhost] [Ellison] [INFO] [10348] [smart_analyser_responder] - dialogs:1,1	00:00:01,590	00:00:14,130	啊啊喂你好
+0	00:00:14,240	00:00:15,590	这边是假账
+1	00:00:15,600	00:00:17,410	镇政府号码政府吗
+0	00:00:18,590	00:00:21,110	噢这边是富士康扶贫办的
+1	00:00:22,320	00:00:23,050	工商部门办
+0	00:00:23,450	00:00:23,940	啊对对
+1	00:00:23,950	00:00:27,300	就是那个平安村是您辖区的嘛
+0	00:00:28,530	00:00:31,900	平安村是您这边辖区的
+1	00:00:31,910	00:00:34,010	吧啊是这样的
+0	00:00:34,020	00:00:36,550	这个平安村有位村民叫黄九江的
+1	00:00:36,560	00:00:37,970	是我们这边的员工
+0	00:00:38,520	00:00:40,660	就是说他在这边申请了一笔扶贫
+1	00:00:40,670	00:00:41,210	基金
+0	00:00:43,490	00:00:47,330	啊您这您这边有那个平安村村委
+1	00:00:47,340	00:00:48,330	书记号码
+0	00:00:49,160	00:00:49,850	我这边没有
+1	00:00:51,020	00:00:51,930	没有吗
+0	00:00:53,100	00:00:57,220	那村长呢有没有啊也没有也没有
+1	00:00:57,230	00:01:00,860	啊你们这边是没登记的吗
+0	00:01:01,720	00:01:03,470	我们这边是没有乘上吗
+1	00:01:04,570	00:01:07,620	噢那有没有那个村委座机
+0	00:01:07,630	00:01:09,690	啊他们他们没有座机
+1	00:01:09,700	00:01:11,550	像农村里面是没有座机
+0	00:01:12,150	00:01:12,740	没有
+1	00:01:13,810	00:01:16,090	我们一般要要选要什么的话就接
+0	00:01:16,100	00:01:16,670	下去
+1	00:01:20,030	00:01:21,770	那你们有什么事情怎么通知他们
+0	00:01:21,780	00:01:23,560	那没有那号码
+1	00:01:24,910	00:01:26,510	我们我们每天都有人下去
+0	00:01:26,520	00:01:29,590	啊每天都有人下乡
+1	00:01:29,600	00:01:34,100	啊嗯噢好吧
+0	00:01:34,110	00:01:34,780	那行
+1	00:01:34,820	00:01:35,660	好好
+
+[2018-07-30 15:59:51,287] [localhost] [Ellison] [INFO] [10348] [smart_analyser_responder] - dialogs:0,1	00:00:00,430	00:00:30,920	去啊啊喂喂你好
+0	00:00:30,990	00:00:34,580	是黄黄强永煌先生吗
+1	00:00:35,190	00:00:35,770	不受
+0	00:00:36,950	00:00:37,240	不是
+1	00:00:37,250	00:00:38,920	啊吧他说不是
+0	00:00:38,920	00:00:41,630	啊找到什么事
+1	00:00:41,940	00:00:43,310	啊他有没有在那里
+0	00:00:43,320	00:00:49,070	啊他没在那里啊噢你是他什么人
+1	00:00:49,610	00:00:51,170	我说他他他的
+0	00:00:51,270	00:00:53,110	我说他B有什么事跟我说
+1	00:00:53,120	00:00:53,620	要可以
+0	00:00:53,660	00:00:54,870	啊是这样的
+1	00:00:55,130	00:00:56,170	他不是他老婆
+0	00:00:56,180	00:00:58,970	沈海淘嘛啊是这样的
+1	00:00:58,980	00:01:02,430	在中信银行信用卡欠了2803
+0	00:01:02,440	00:01:03,270	84元
+1	00:01:03,640	00:01:04,080	告诉你
+0	00:01:04,820	00:01:07,550	就是说逾期差不多几个月了都还
+1	00:01:07,560	00:01:08,530	没处理
+0	00:01:10,850	00:01:11,890	那个我也不知道
+1	00:01:11,900	00:01:13,430	喽没事
+0	00:01:13,440	00:01:14,730	啊你跟她老公说一下
+1	00:01:14,740	00:01:16,200	叫他跟他老婆说一下
+0	00:01:16,250	00:01:16,530	儿子
+1	00:01:16,540	00:01:17,070	你
+0	00:01:17,110	00:01:17,950	他说你嫂子
+1	00:01:17,960	00:01:19,550	啊你跟你嫂子说一下都可以
+0	00:01:19,560	00:01:22,560	啊我嫂子现在不接我电话
+1	00:01:22,570	00:01:24,140	我也不知道在在在哪里
+0	00:01:24,150	00:01:27,810	啊噢他他们家是什么
+1	00:01:27,860	00:01:31,890	嗯是是现在他跟我过得不好了
+0	00:01:31,900	00:01:32,880	现在我也不知道
+1	00:01:33,550	00:01:37,010	这样啊啊就是说跟你哥闹矛盾
+0	00:01:37,020	00:01:41,280	是不是啊对啊噢你嫂子做什么的
+1	00:01:41,290	00:01:42,860	他们2000多块钱都没钱还
+0	00:01:42,870	00:01:45,750	嘛我我现在我也不知道他在在
+1	00:01:45,760	00:01:46,590	干嘛
+0	00:01:47,170	00:01:47,340	对
+1	00:01:47,350	00:01:47,900	啊行
+0	00:01:47,910	00:01:49,880	吧那您您忙跟歌声
+1	00:01:50,190	00:01:51,280	跟您哥说一下
+0	00:01:51,290	00:01:52,980	您叫您哥转告他一下
+1	00:01:52,980	00:01:54,140	好
+0	00:01:54,150	00:01:56,290	那我知道好嗯嗯好好
+1	00:01:56,300	00:01:57,860	行行嗯好唉唉
+
+[2018-07-30 17:04:34,509] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [3136] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:05:32,058] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [1480] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:05:39,447] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [11168] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:05:48,027] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [12376] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:06:45,783] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [11132] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:09:48,635] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [1592] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:11:02,776] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [4784] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:11:03,572] [localhost] [Ellison] [INFO] [4784] [main] - Ellison服务器完成初始化
+[2018-07-30 17:46:28,094] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [7728] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:46:28,912] [localhost] [Ellison] [INFO] [7728] [main] - Ellison服务器完成初始化
+[2018-07-30 17:52:21,617] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [2052] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:52:22,435] [localhost] [Ellison] [INFO] [2052] [main] - Ellison服务器完成初始化
+[2018-07-30 17:55:17,338] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [5656] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 17:55:18,194] [localhost] [Ellison] [INFO] [5656] [main] - Ellison服务器完成初始化
+[2018-07-30 22:25:09,664] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [1716] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 22:25:10,537] [localhost] [Ellison] [INFO] [1716] [main] - Ellison服务器完成初始化
+[2018-07-30 22:27:16,318] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [1636] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 22:27:17,167] [localhost] [Ellison] [INFO] [1636] [main] - Ellison服务器完成初始化
+[2018-07-30 22:37:55,154] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [5684] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 22:37:55,990] [localhost] [Ellison] [INFO] [5684] [main] - Ellison服务器完成初始化
+[2018-07-30 22:40:29,837] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [11860] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 22:40:30,686] [localhost] [Ellison] [INFO] [11860] [main] - Ellison服务器完成初始化
+[2018-07-30 22:40:58,508] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [7716] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 22:40:59,361] [localhost] [Ellison] [INFO] [7716] [main] - Ellison服务器完成初始化
+[2018-07-30 23:11:46,471] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [11372] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 23:11:47,311] [localhost] [Ellison] [INFO] [11372] [main] - Ellison服务器完成初始化
+[2018-07-30 23:25:26,046] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [8516] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-30 23:25:26,893] [localhost] [Ellison] [INFO] [8516] [main] - Ellison服务器完成初始化
+[2018-07-31 09:54:14,125] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [14232] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 09:54:15,235] [localhost] [Ellison] [INFO] [14232] [main] - Ellison服务器完成初始化
+[2018-07-31 10:54:00,705] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [13196] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 10:54:01,747] [localhost] [Ellison] [INFO] [13196] [main] - Ellison服务器完成初始化
+[2018-07-31 11:00:08,647] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [13888] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 11:00:09,520] [localhost] [Ellison] [INFO] [13888] [main] - Ellison服务器完成初始化
+[2018-07-31 11:00:40,762] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [2456] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 11:00:41,730] [localhost] [Ellison] [INFO] [2456] [main] - Ellison服务器完成初始化
+[2018-07-31 11:13:13,871] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [5012] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 11:13:14,730] [localhost] [Ellison] [INFO] [5012] [main] - Ellison服务器完成初始化
+[2018-07-31 14:04:39,684] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [6804] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 14:04:40,860] [localhost] [Ellison] [INFO] [6804] [main] - Ellison服务器完成初始化
+[2018-07-31 14:22:46,451] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [2460] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 14:22:47,289] [localhost] [Ellison] [INFO] [2460] [main] - Ellison服务器完成初始化
+[2018-07-31 14:26:48,091] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [15920] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 14:26:49,012] [localhost] [Ellison] [INFO] [15920] [main] - Ellison服务器完成初始化
+[2018-07-31 14:29:38,044] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [13496] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 14:29:38,915] [localhost] [Ellison] [INFO] [13496] [main] - Ellison服务器完成初始化
+[2018-07-31 17:05:24,243] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [9376] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 17:05:25,069] [localhost] [Ellison] [INFO] [9376] [main] - Ellison服务器完成初始化
+[2018-07-31 17:10:13,871] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [3956] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 17:10:14,759] [localhost] [Ellison] [INFO] [3956] [main] - Ellison服务器完成初始化
+[2018-07-31 17:24:37,486] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [13324] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-07-31 17:24:38,305] [localhost] [Ellison] [INFO] [13324] [main] - Ellison服务器完成初始化
+[2018-08-01 09:32:18,499] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [11536] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 09:32:19,684] [localhost] [Ellison] [INFO] [11536] [main] - Ellison服务器完成初始化
+[2018-08-01 11:41:58,721] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [14476] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 11:41:59,594] [localhost] [Ellison] [INFO] [14476] [main] - Ellison服务器完成初始化
+[2018-08-01 11:43:33,285] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [15884] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 11:43:34,155] [localhost] [Ellison] [INFO] [15884] [main] - Ellison服务器完成初始化
+[2018-08-01 13:41:46,462] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [7024] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 13:41:47,679] [localhost] [Ellison] [INFO] [7024] [main] - Ellison服务器完成初始化
+[2018-08-01 14:43:50,900] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [14860] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 14:43:51,790] [localhost] [Ellison] [INFO] [14860] [main] - Ellison服务器完成初始化
+[2018-08-01 15:17:54,656] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [2528] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 15:17:55,465] [localhost] [Ellison] [INFO] [2528] [main] - Ellison服务器完成初始化
+[2018-08-01 15:22:15,424] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [11408] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 15:22:16,294] [localhost] [Ellison] [INFO] [11408] [main] - Ellison服务器完成初始化
+[2018-08-01 15:25:56,950] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [2716] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 15:25:57,768] [localhost] [Ellison] [INFO] [2716] [main] - Ellison服务器完成初始化
+[2018-08-01 15:38:26,309] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [15908] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 15:38:27,149] [localhost] [Ellison] [INFO] [15908] [main] - Ellison服务器完成初始化
+[2018-08-01 16:15:10,231] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [4860] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 16:15:23,357] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [13020] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 16:15:24,189] [localhost] [Ellison] [INFO] [13020] [main] - Ellison服务器完成初始化
+[2018-08-01 16:46:13,858] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [10124] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 16:46:14,689] [localhost] [Ellison] [INFO] [10124] [main] - Ellison服务器完成初始化
+[2018-08-01 16:59:24,453] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [6948] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 16:59:25,388] [localhost] [Ellison] [INFO] [6948] [main] - Ellison服务器完成初始化
+[2018-08-01 17:01:08,675] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [5940] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-01 17:01:09,526] [localhost] [Ellison] [INFO] [5940] [main] - Ellison服务器完成初始化
+[2018-08-02 13:00:11,822] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [6104] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-02 13:00:12,730] [localhost] [Ellison] [INFO] [6104] [main] - Ellison服务器完成初始化
+[2018-08-02 15:54:06,257] [LAPTOP-7VQ7UJAS] [Ellison] [WARNING] [6812] [base_orm] - 数据库初始化读取环境参数失败，使用默认参数: 'MYSQL_PORT' , Traceback信息: Traceback (most recent call last):
+  File "D:\PRIS\中信银行\code\Ellison\database\orm\base_orm.py", line 22, in <module>
+    MYSQL_PORT = int(os.environ["MYSQL_PORT"])
+  File "d:\anaconda3\envs\py3\lib\os.py", line 669, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'MYSQL_PORT'
+
+[2018-08-02 15:54:07,142] [localhost] [Ellison] [INFO] [6812] [main] - Ellison服务器完成初始化
